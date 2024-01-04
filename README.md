@@ -36,6 +36,12 @@ Templates:
 * [Decision record template by Olaf Zimmermann](https://medium.com/olzzio/y-statements-10eb07b5a177)
 * [Translations into more languages](locales/)
 
+Tools:
+
+* https://adr.github.io/
+* https://github.com/mrwilson/adr-viewer
+* https://github.com/thomvaill/log4brains
+
 Examples:
 
 * [CSS framework](locales/en/examples/css-framework/)
